@@ -1,2 +1,2 @@
 import os
-print(5)
+print(510)
